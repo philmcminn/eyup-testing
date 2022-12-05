@@ -33,7 +33,7 @@ public class FindLastTest {
 
     // (c) A JUnit test that executes the fault but does not cause a failure
     @Test
-    public void testFind_LastInfectionNoFailure() {
+    public void testFind_ExecutesFaultButNoFailure() {
         // anything where y is not in x
         // (e) the state is infected because the first index of x not considered.
         // However, because y is not in x anyway, the method behaves correctly
