@@ -1,7 +1,7 @@
 # Materials for the EyUp Lecture on Java Testing, 7/12/22
 
-The presentation can be found
-[here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.key).
+The slides for the presentation can be found
+[here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.pdf).
 
 ### Instructions for the Practical Part of the Lecture
 
