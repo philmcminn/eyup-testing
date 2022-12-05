@@ -3,7 +3,7 @@
 The presentation can be found
 [here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.key).
 
-## Instructions for the Practical Part of the Lecture
+### Instructions for the Practical Part of the Lecture
 
 Navigate to the `uk.ac.shef` package (in the `code` directory of this
 repository) and open the `BuggyClass.java` class. 
