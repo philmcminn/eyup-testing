@@ -1,8 +1,9 @@
 # Materials for the EyUp Lecture on Java Testing, 7/12/22
 
-The presentation can be found here.
+The presentation can be found [here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.key).
 
-## Practical 
+
+## Instructions for the Practical Part of the Lecture
 
 Navigate to the `uk.ac.shef` package (in the
 `code` directory of this repository) and open the `BuggyClass.java`
