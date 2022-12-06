@@ -1,4 +1,6 @@
-# Materials for the EyUp Lecture on Java Testing, 7/12/22
+# EyUp Java Testing, 7/12/22
+
+## Phil McMinn
 
 The slides for the presentation can be found
 [here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.pdf).
