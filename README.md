@@ -32,3 +32,9 @@ failure.
 wrote in (a) to use the fixed method, and verify that it now passes. 
 
 Add your tests for each method into a new JUnit test class.
+
+## References
+
+* JUnit 5: https://junit.org/junit5
+* Assertions in JUnit5:
+  https://junit.org/junit5/docs/5.0.1/api/org/junit/jupiter/api/Assertions.html
