@@ -35,7 +35,7 @@ Add your tests for each method into a new JUnit test class.
 
 ## References
 
-* BBC Panorama”episode on the Royal Mail software scandal: https://www.bbc.co.uk/iplayer/episode/m0016t20/panorama-the-post-office-scandal 
+* BBC Panorama episode on the Royal Mail software scandal: https://www.bbc.co.uk/iplayer/episode/m0016t20/panorama-the-post-office-scandal 
 * JUnit 5: https://junit.org/junit5
 * Assertions in JUnit5:
   https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Assertions.html
