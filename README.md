@@ -35,7 +35,11 @@ Add your tests for each method into a new JUnit test class.
 
 ## References
 
+* BBC Panorama”episode on the Royal Mail software scandal: https://www.bbc.co.uk/iplayer/episode/m0016t20/panorama-the-post-office-scandal 
 * JUnit 5: https://junit.org/junit5
 * Assertions in JUnit5:
-  https://junit.org/junit5/docs/5.0.1/api/org/junit/jupiter/api/Assertions.html
-* BBC Panorama”episode on the Royal Mail software scandal: https://www.bbc.co.uk/iplayer/episode/m0016t20/panorama-the-post-office-scandal 
+  https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Assertions.html
+* Hamcrest for Java and links to JavaDocs: http://hamcrest.org/JavaHamcrest/ 
+* Hamcrest matchers:
+  http://hamcrest.org/JavaHamcrest/javadoc/2.2/org/hamcrest/Matchers.html
+* Tutorial on Hamcrest: https://www.baeldung.com/java-junit-hamcrest-guide

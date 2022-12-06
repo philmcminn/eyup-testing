@@ -8,13 +8,6 @@ public class Triangle {
         ISOSCELES;
     }
 
-    public static class InvalidTriangleException extends RuntimeException {
-
-        public InvalidTriangleException(String msg) {
-            super(msg);
-        }
-    }
-
     public static Type classify(int side1, int side2, int side3) {
         Type type;
 
@@ -50,5 +43,12 @@ public class Triangle {
         }
 
         return type;
+    }
+}
+
+class InvalidTriangleException extends RuntimeException {
+
+    public InvalidTriangleException(String msg) {
+        super(msg);
     }
 }
