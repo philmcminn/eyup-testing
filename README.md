@@ -1,11 +1,14 @@
-# EyUp Java Testing, 7/12/22
+# EyUp Java Testing – 7th December 2022
 
-## Phil McMinn
+### Talk Slides
 
-The slides for the presentation can be found
+The slides for the talk can be found
 [here](https://github.com/philmcminn/eyup-testing/blob/main/presentation/testing.pdf).
 
-### Instructions for the Practical Part of the Lecture
+You may need to refer to these during the practical part of the session
+below.
+
+### Practical
 
 Navigate to the `uk.ac.shef` package (in the `code` directory of this
 repository) and open the `BuggyClass.java` class. 
